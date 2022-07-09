@@ -1,5 +1,5 @@
 --[[
-	( [FE]Roblox Moderation Script )
+	( [FE] Roblox Moderation Script )
     
     Fates Admin - Created By: @cyiej (Updated) - 08/07/2022
 ]]--
